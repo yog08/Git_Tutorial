@@ -1,1 +1,1 @@
-this is small project
+this is small project version 2
